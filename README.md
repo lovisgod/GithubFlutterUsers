@@ -1,10 +1,12 @@
 # flutterusers
 
-A new Flutter project.
+A simple Flutter project to practice how to make network calls in flutter using http package and github api.
 
-## Getting Started
+## Author
+- [Ayooluwa Olosunde](https://github.com/lovisgod)
 
-This project is a starting point for a Flutter application.
+## Getting Started with learning flutter?
+
 
 A few resources to get you started if this is your first Flutter project:
 
